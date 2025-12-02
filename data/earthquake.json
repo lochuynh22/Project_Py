@@ -1,0 +1,12 @@
+{
+  "features": [
+    {
+      "properties": {"mag": 5.1},
+      "geometry": {"coordinates": [130.5, 35.6]}
+    },
+    {
+      "properties": {"mag": 4.7},
+      "geometry": {"coordinates": [126.1, 33.3]}
+    }
+  ]
+}
